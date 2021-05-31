@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("hello cmm");
         System.out.println("hello scl");
+        System.out.println("hello Test conflict2");
     }
 }
