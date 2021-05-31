@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("hello scl");
         System.out.println("Test conflict master");
         System.out.println("hello Test conflict2");
+        System.out.println("cmm");
+        System.out.println("nimagebi");
     }
 }
