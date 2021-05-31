@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello Test conflict2");
         System.out.println("cmm");
         System.out.println("nimagebi");
+        System.out.println("pull");
     }
 }
